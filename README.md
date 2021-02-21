@@ -6,3 +6,4 @@ Build with `vitepress` and `model-viewer`, simpliy start using nodejs:
 yarn install   # npm install
 yarn docs:dev  # npm run docs:dev
 ```
+1
